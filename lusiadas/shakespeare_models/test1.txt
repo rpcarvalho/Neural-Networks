@@ -1,0 +1,44 @@
+--- SEED ---
+KENT:
+A knave; a rascal
+
+
+
+-- Test with temperature of 1.0 --
+
+
+KENT:
+A knave; a rascalk late; co bow you youvance erenld fore leld ttou in ntill at anat beed hisy
+As the pon thougaor, I pover that that se'r the hor make,
+iur tha dee wore trecanRs fyiun serais a whe
+to to sother do you arbnle
+Ther?'y are mone 'ent freecead dy the eusht,.
+
+G:ITen:
+Co, Fet nir ghatcusf,. 
+ASESSADUROLO:
+Migh hifk the ferabit
+Hare mishos a hase, -  SArm:
+Whis keach, nf low, If wota menam.
+Abllonon mishor is all o xancen maydovy; wid,
+Woib wis tale oo thath yod.
+
+MISONE:
+Fhome; thou frocle qhayyan thee, booter'y onfy
+UraS noshore then sinn pidn But go dhillly honetwem.
+Bin ilou, on my this him sore. 
+
+
+
+-- Test with temperature of 0.5 --
+
+
+KENT:
+A knave; a rascale ne thar she in bos our youn there in gould:
+The laver bfering be be that age the beent thee his the his andawed sor the conser as him of me dire the find.
+
+PATHENOA:
+Lor the penterd thatos her the dee mot mither so bingife that youn thou dir her dare the dade and he dordinn hound polen and the bfonged out ald he haves in I would and that the burd in the bot him him his indor were that the code of the mere,
+And hath the death thern you sanrer bot his the eare
+And ot leare mose the the for heor, be he have se thoa haald he dleads core,
+He bave mathere and herest reat his docles a dir him shat 
